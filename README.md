@@ -3,7 +3,7 @@ Organizar el equipo de desarrollo.
 # **Actividades:**
 
 Conformar equipos de desarrollo de 5 integrantes y nombrar a un Scrum Master (SM)  por equipo.
-  -Cada equipo deberá:
+  - Cada equipo deberá: 
   1. Crear un sitio en Jira.
   2. Añadir a todos los integrantes del equipo, al sitio creado.
   3. Crear un proyecto en Jira.
