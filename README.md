@@ -1,8 +1,8 @@
 # Mision-Tic-Sprint-1-Ciclo-3
 Organizar el equipo de desarrollo.
-Actividades
+## Actividades
 
-Conformar equipos de desarrollo de 5 integrantes y nombrar a un Scrum Master (SM) por equipo.
+Conformar equipos de desarrollo de 5 integrantes y nombrar a un Scrum Master (SM)  por equipo.
 Cada equipo deberá:
 Crear un sitio en Jira.
 Añadir a todos los integrantes del equipo, al sitio creado.
